@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mbasi/mlproject/mlruns/0/eaf7cfa5a2ae4641bdb9d75441bd1b12/artifacts
+end_time: 1733388509577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaf7cfa5a2ae4641bdb9d75441bd1b12
+run_name: smiling-hen-846
+run_uuid: eaf7cfa5a2ae4641bdb9d75441bd1b12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733388501424
+status: 3
+tags: []
+user_id: MuhammadABasit

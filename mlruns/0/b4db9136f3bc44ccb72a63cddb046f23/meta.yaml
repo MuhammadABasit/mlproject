@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mbasi/mlproject/mlruns/0/b4db9136f3bc44ccb72a63cddb046f23/artifacts
+end_time: 1733386175206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b4db9136f3bc44ccb72a63cddb046f23
+run_name: upset-shad-709
+run_uuid: b4db9136f3bc44ccb72a63cddb046f23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733386161468
+status: 3
+tags: []
+user_id: root
